@@ -1,4 +1,4 @@
-# DRIVING TEST GRADE SCORE AS PER AVERAGE SCORE
+# DRIVING TEST GRADE AS PER AVERAGE SCORE
 
 // Online C compiler to run C program online
 #include <stdio.h>
